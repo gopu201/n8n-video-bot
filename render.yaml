@@ -18,6 +18,8 @@ services:
         value: npg_3NilwsyV8rSH
       - key: DB_POSTGRESDB_USER
         value: ep-muddy-star
+      - key: DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED
+        value: false
       - key: DB_POSTGRESDB_PORT
         value: 5432
       - key: DB_POSTGRESDB_SSL
