@@ -13,7 +13,7 @@ services:
       - key: DB_POSTGRESDB_DATABASE
         value: neondb
       - key: DB_POSTGRESDB_HOST
-        value: ep-xxxx-xxxx.us-east-2.aws.neon.tech
+        value: ep-muddy-star-aoq36b1m.c-2.ap-southeast-1.aws.neon.tech
       - key: DB_POSTGRESDB_PASSWORD
         value: npg_3NilwsyV8rSH
       - key: DB_POSTGRESDB_USER
