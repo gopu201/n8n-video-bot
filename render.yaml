@@ -17,7 +17,7 @@ services:
       - key: DB_POSTGRESDB_PASSWORD
         value: npg_3NilwsyV8rSH
       - key: DB_POSTGRESDB_USER
-        value: ep-muddy-star
+        value: neondb_owner
       - key: DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED
         value: false
       - key: DB_POSTGRESDB_PORT
